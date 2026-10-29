@@ -1,0 +1,34 @@
+1. Plan
+
+Jira: A project management tool developed by Atlassian, widely used for issue tracking, agile task management, sprint planning, and workflow monitoring across engineering teams.
+ Azure DevOps (Azure Dashboards): Microsoft’s cloud-integrated suite for agile planning, offering Kanban boards, backlogs, and reporting features to track project progress. 
+2. Code (Source Code Management / SCM)
+
+Git: A distributed version control system that allows developers to track changes in source code, collaborate asynchronously, create branches, and merge code updates safely.
+ GitHub / GitLab: Cloud platforms that host Git repositories, providing continuous collaboration, pull request code reviews, issue tracking, and access control. 
+3. Build
+
+Maven: A build automation tool primarily for Java projects. It manages project dependencies via XML configurations (pom.xml), handles compilation, and packages code into artifacts like JAR or WAR files. 
+Gradle: A flexible, high-performance build automation tool that supports multiple languages (Java, Kotlin, Groovy) and uses domain-specific languages (DSL) instead of XML for faster incremental builds.
+ 
+4. Test
+
+JUnit: A popular testing framework for Java, used by developers to write and execute repeatable unit tests to ensure individual code components work as expected. 
+Selenium: An open-source framework used for automating web browser testing across different platforms and browsers to validate user interfaces and functional behavior. 
+5. Release
+
+Jenkins: An open-source automation server used to build Continuous Integration and Continuous Delivery/Deployment (CI/CD) pipelines, enabling automated testing, building, and deployment of applications. 
+GitHub Actions: An integrated CI/CD and workflow automation service built into GitHub that allows developers to automate builds, tests, and deployments directly from repository events.
+
+Here are short notes on the Deploy and Monitor phases, which extend the DevOps lifecycle to production and operational tracking:
+
+6. Deploy
+
+Docker: A containerization platform that packages an application along with its dependencies, libraries, and configuration files into a single container image, ensuring it runs reliably across any environment. 
+Kubernetes: An open-source container orchestration system that automates the deployment, scaling, networking, and management of containerized applications across clusters of nodes. 
+Ansible / Terraform: Configuration management and Infrastructure as Code (IaC) tools used to provision cloud environments and deploy application infrastructure automatically. 
+7. Monitor
+
+Prometheus: An open-source monitoring and alerting toolkit that collects time-series metrics from applications and infrastructure, making it easy to track system health and performance. 
+Grafana: A visualization and analytics software that connects with data sources (like Prometheus) to build real-time dashboards for tracking system metrics, logs, and operational trends. 
+Datadog / ELK Stack (Elasticsearch, Logstash, Kibana): Comprehensive observability platforms used for aggregating logs, monitoring application performance metrics (APM), and generating automated alerts for system failures.
