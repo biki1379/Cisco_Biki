@@ -1,0 +1,43 @@
+1. Agile 
+    * Meaning: An iterative approach to project management and software development that helps teams deliver value to customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, consumable increments.  
+2. Scrum 
+    * Meaning: A popular agile framework that helps teams structure and manage work through a set of values, principles, and practices. It enables teams to self-organize, learn from experience, and address changing requirements. 
+3. Sprint 
+    * Meaning: A short, time-boxed period (usually 2 to 4 weeks) when a Scrum team works to complete a set amount of work. Sprints form the heartbeat of Scrum, where ideas are turned into value. 
+4. Iteration 
+    * Meaning: A single development cycle (synonymous with a sprint in many contexts) where a specific set of features or improvements is planned, built, tested, and reviewed. 
+5. User Story 
+    * Meaning: An informal, general explanation of a software feature written from the perspective of the end user. Its purpose is to articulate how a software feature will deliver value to the customer. 
+    * Format: "As a [user type], I want [some goal] so that [some reason]." 
+6. Epic 
+    * Meaning: A large body of work that can be broken down into smaller, distinct tasks (called user stories) based on the needs of the customer or end user. Epics usually span multiple sprints. 
+7. Story Point 
+    * Meaning: A unit of measure used in Agile to estimate the overall effort required to fully implement a product backlog item or user story. It accounts for complexity, risk, and effort rather than just exact hours. 
+8. Acceptance Criteria 
+    * Meaning: A predefined set of conditions or requirements that a user story must meet to be marked as complete and accepted by the product owner or stakeholders. 
+Part 2: Scrum Roles (What They Do)
+1. PO (Product Owner) 
+    * Responsibility: Maximizes product value by managing and prioritizing the Product Backlog, defining user stories, and bridging the gap between business stakeholders and the development team. 
+2. SM (Scrum Master) 
+    * Responsibility: Acts as a servant-leader for the Scrum team, ensuring Scrum theory, practices, and rules are understood and enacted, while removing any impediments blocking the team's progress. 
+3. Developers 
+    * Responsibility: The cross-functional professionals who do the hands-on work of building, testing, and delivering the "Increment" of potentially releasable product each sprint. 
+4. Stakeholder 
+    * Responsibility: Anyone with an interest in the project (customers, management, users) who provides feedback, influences the product backlog, and reviews sprint outcomes during reviews. 
+Part 3: Scrum Events & Artifacts
+1. Sprint Planning 
+    * Purpose: A collaborative meeting at the start of a sprint where the entire Scrum team decides what items from the product backlog will be delivered in the upcoming sprint and how the work will be achieved. 
+2. Daily Scrum 
+    * Purpose: A 15-minute time-boxed daily event for the development team to synchronize activities, inspect progress toward the sprint goal, and adapt the upcoming plan for the next 24 hours. 
+3. Sprint Review 
+    * Purpose: Held at the end of the sprint to inspect the increment of work delivered, demonstrate features to stakeholders, and collaboratively adapt the product backlog based on feedback. 
+4. Sprint Retrospective 
+    * Purpose: An internal meeting where the Scrum team reflects on the past sprint regarding people, relationships, process, and tools, identifying opportunities for continuous improvement. 
+5. Sprint Backlogs 
+    * Purpose: The set of product backlog items selected for the current sprint, combined with a plan for delivering the product increment and realizing the sprint goal. 
+6. Sprint Goal 
+    * Purpose: A short, overarching objective for the sprint that provides guidance to the development team on why they are building the increment, keeping the team focused and aligned. 
+Part 4: DoD
+* DOD (Definition of Done): 
+    * Meaning: A shared, formalized understanding within the team of all the quality criteria and criteria a product increment must meet before it can be considered complete, shippable, and ready for release (e.g., code reviewed, unit-tested, deployed to staging, documented).
+
